@@ -1,4 +1,6 @@
-# RustyPE
+#RustyPE
 Project Euler Solutions
 
-Programming Languages used: C, C++, Python
+Programming Languages used: C, C++, Python, Java
+
+License: MIT
